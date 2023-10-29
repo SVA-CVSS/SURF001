@@ -1,0 +1,2 @@
+1. Please download joern from https://github.com/joernio/joern/releases/download/v1.1.260/joern-cli.zip and unzip it here.
+2. You can also find it from https://drive.google.com/drive/folders/14BSulISs-4luX7VKg0oe98OIwzTqGyBE?usp=sharing
