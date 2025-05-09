@@ -45,5 +45,5 @@ We select the most representative methods for each category, including Node2Vec,
 
 ![RQ3](./img/RQ3.png)
 
-
+The full results for all metrics in the discussion are shown here
 
