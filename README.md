@@ -46,4 +46,7 @@ We select the most representative methods for each category, including Node2Vec,
 ![RQ3](./img/RQ3.png)
 
 The full results for all metrics in the discussion are shown here
+![disscussion1](./img/discussion1.png)
+![disscussion2](./img/discussion2.png)
+![disscussion3](./img/discussion3.png)
 
